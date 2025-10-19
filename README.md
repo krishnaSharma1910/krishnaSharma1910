@@ -1,5 +1,11 @@
 # 💫 About Me:
-# Krishna Sharma — Data Scientist & GenAI Engineer<br><br>I build practical Generative AI and applied ML systems: LLM fine-tuning (PEFT/LoRA), Retrieval-Augmented Generation (RAG), agentic workflows, and production-ready ML pipelines. Currently finishing a B.Tech in Data Science (NIIT University, Dec 2025).<br><br>## Core strengths<br>- GenAI / NLP: LLM fine-tuning, RAG pipelines, prompt engineering, agentic automation  <br>- ML & Deep Learning: CNNs, LSTM, Random Forests, model evaluation on imbalanced data  <br>- Engineering: Python, Node.js, Docker, Redis, MinIO, vector DBs, data architecture  <br>- Tools & libraries: Transformers, TensorFlow, Scikit-learn, Pandas, Spark, Neo4j, MongoDB<br><br>## Selected projects<br>- **LLM Fine-tuning & RAG workflows** — Fine-tuned Arabic LLMs using LoRA (PEFT) → +35% regional accuracy; built RAG pipelines and agentic modules to automate workflows.  <br>- **Octave — Hybrid P2P audio streaming** — Dockerized P2P streaming with Redis fallback & FFmpeg; improved latency and handled 10k+ audio files.  <br>- **Adaptive IDS for IoT** — CNN + LSTM based IDS on CICIDS/NSL-KDD → 92% detection accuracy; reduced false positives and latency.  <br>- **Loan Default Predictor** — Random Forest with advanced feature engineering → 91% accuracy and lower false positives.<br><br>*(See pinned repos for demos, READMEs, and notebooks.)*<br><br>## Currently learning<br>- Advanced LLM techniques (LoRA/PEFT, quantization)  <br>- Production RAG at scale and retrieval optimization  <br>- Agentic systems and automation integrations (n8n / workflow orchestration)<br><br>## How to reach me<br>- Email: krishnash1910@gmail.com  <br>- LinkedIn: https://www.linkedin.com/in/krishna-sharma-92b022267  <br>- Portfolio: krishnash.dev  <br>- GitHub: https://github.com/krishnaSharma1910<br><br>## Quick ask<br>Open to internships and entry-level roles in GenAI / NLP / Advanced Analytics. If you want to collaborate or need project demos, check the pinned repos or drop a message!<br>
+- 🚀 I'm currently working on building practical Generative AI systems (RAG, agents, & LLM fine-tuning).
+- 🤝 I'm looking to collaborate on open-source GenAI or MLOps projects.
+- 🌱 I'm currently learning advanced LLM techniques (LoRA/PEFT) and production-scale RAG.
+- 💬 Ask me about Python, agentic workflows, vector DBs, or my P2P audio streaming project.
+- 🎓 Fun fact: I'm a final-year Data Science student (graduating Dec 2025)!
+
+- <br>## Quick ask<br>Open to internships and entry-level roles in GenAI / NLP / Advanced Analytics. If you want to collaborate or need project demos, check the pinned repos or drop a message!<br>
 
 
 ## 🌐 Socials:
@@ -12,4 +18,5 @@
 [![](https://visitcount.itsvg.in/api?id=krishnasharma1910&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
